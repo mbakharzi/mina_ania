@@ -1,0 +1,30 @@
+var main_trials = [
+	{question: "How many squares are there on a chess board?",
+	 option1: "67",
+	 option2: "64",
+	 option3: "62",
+	 picture: "images/chess.jpg"},
+	{question: "Who is the best football player in the world?",
+	 option1: "Messi",
+	 option2: "C.Ronaldo",
+	 option3: "Beckham",
+	 picture: "images/football_question5.jpg"},
+	{question: "Do you like cats?",
+	 option1: "yes",
+	 option2: "No",
+	 option3: "Maybe",
+   picture: "images/cats.jpg"},
+	 {question: "which one do you prefer as a pet?",
+    option1: "cat",
+	  option2: "monkey",
+		option3: "Dog",
+	  picture: "images/cat_monkey.jpg"},
+	{question: "How many colors are there in a rainbow?",
+    option1: "seven",
+	  option2: "eight",
+	  option3: "six",
+	  picture: "images/rainbow_question5.jpg"},
+
+
+
+];
